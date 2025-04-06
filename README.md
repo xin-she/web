@@ -8,7 +8,14 @@ He has been a highly ranked scholar (ranked #2 in metaheuristics and #3 in swarm
 
 His research interests include algorithms, artificial intelligence, mathematical modelling, engineering simulation, engineering optimization, metaheuristics, nature-inspired computing, numerical methods, data mining, and simulation tools. A full list of his publications are available at Google scholar and at Web of Science.  He was the IEEE Computational Intelligence Society (CIS) chair for the Task Force on Business Intelligence and Knowledge Management (2015 to 2020). He has published more than 50 books and more than 400 peer-reviewed research papers with more than 96,000 citations, and he has been on the prestigious list of most influential researchers or [highly-cited researchers](https://www.webofscience.com/wos/author/record/I-5662-2019) (Web of Science) for ten consecutive years since 2016. 
 
-Full details of publication:
+Full details of publications:
 1. [Google Scholar](https://scholar.google.co.uk/citations?user=fA6aTlAAAAAJ)
 2. [Research Gate](https://www.researchgate.net/profile/Xin-She-Yang)
 3. [ORCID](https://orcid.org/0000-0001-8231-5556)
+
+My recent books:
+1. [Engineering Simulation and its Applications: Algorithms and Numerical Methods](https://www.sciencedirect.com/book/9780443140846/engineering-simulation-and-its-applications) Academic Press/Elsevier, (2024)
+2. [Introduction to Algorithms for Data Mining and Machine Learning](https://www.sciencedirect.com/book/9780128172162/introduction-to-algorithms-for-data-mining-and-machine-learning) Academic Press/Elsevier, (2019)
+3. [Nature-Inspired Optimization Algorithms](https://shop.elsevier.com/books/nature-inspired-optimization-algorithms/yang/978-0-12-821986-7) Second Edition, Academic Press, (2020)
+4. [Mathematics for Civil Engineers: An Introduction](https://www.jstor.org/stable/jj.12638999) Liverpool University Press/Dunedin Academic Press, (2018)
+5. [Engineering Mathematics with Examples and Applications](https://www.sciencedirect.com/book/9780128097304/engineering-mathematics-with-examples-and-applications) Academic Press/Elsevier, (2017)
