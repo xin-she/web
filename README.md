@@ -1,3 +1,4 @@
+![web](/mylogo.png)
 # Dr Xin-She Yang's Webpage
 
 Xin-She Yang is [Reader](https://en.wikipedia.org/wiki/Reader_(academic_rank)) in Modelling and Simulation as well as Optimization at Middlesex University London, with more than 25 years' experience in teaching and research. He was a Senior Research Scientist at Mathematics and Scientific Computing Division of UK's National Physical Laboratory. He got his DPhil in Applied Mathematics from Mathematical Institute, University of Oxford in 1998. He is also an elected Fellow of the *Institute of Mathematics and its Applications* (2021), Fellow of *Asian Computational Intelligence Society* (2023) and Fellow of *Soft Computing Research Society* (2025).
@@ -8,10 +9,12 @@ He has been a highly ranked scholar (ranked #2 in metaheuristics and #3 in swarm
 
 His research interests include algorithms, artificial intelligence, mathematical modelling, engineering simulation, engineering optimization, metaheuristics, nature-inspired computing, numerical methods, data mining, and simulation tools. A full list of his publications are available at [Google scholar](https://scholar.google.co.uk/citations?user=fA6aTlAAAAAJ) and at [Web of Science](https://www.webofscience.com/wos/author/record/I-5662-2019).  He was the IEEE Computational Intelligence Society (CIS) chair for the Task Force on Business Intelligence and Knowledge Management (2015 to 2020). He has published more than 50 books and more than 400 peer-reviewed research papers with more than 96,000 citations, and he has been on the prestigious list of most influential researchers or [highly-cited researchers](https://www.webofscience.com/wos/author/record/I-5662-2019) (i.e., top 0.1% Scientists, Web of Science) for ten consecutive years since 2016. 
 
-##### Show email 
+###### Show email address
 <details>
-  <sumary>Show email</sumary>
-  If you are interested in any of the following publications or wish to discuss research collaboration, please feel freel to email x.yang (at) mdx.ac.uk 
+  <sumary>
+  If you are interested in any of the following publications or wish to discuss research collaboration, 
+    please feel freel to email x.yang (at) mdx.ac.uk 
+  </sumary>
 </details>
 
 ## Full details of publications:
