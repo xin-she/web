@@ -12,7 +12,7 @@ He is also among the [top 2% scientists](https://www.topresearcherslist.com/Home
 His research interests include algorithms, artificial intelligence, mathematical modelling, engineering simulation, engineering optimization, metaheuristics, nature-inspired computing, 
 numerical methods, data mining, and simulation tools.  He was the IEEE Computational Intelligence Society (CIS) chair for the Task Force on Business Intelligence and Knowledge Management (2015 to 2020). 
 
-He has authored/edited more than 50 books and has published more than 400 peer-reviewed research papers with more than 96,000 citations, and the full lists of his publications are available at [Google scholar](https://scholar.google.co.uk/citations?user=fA6aTlAAAAAJ) and at [Web of Science](https://www.webofscience.com/wos/author/record/I-5662-2019). He has been on the prestigious list of most influential researchers or [highly-cited researchers](https://www.webofscience.com/wos/author/record/I-5662-2019)  (i.e., top 0.1% Scientists, Web of Science) for ten consecutive years since 2016. 
+He has authored/edited more than 50 books and has published more than 400 peer-reviewed research papers with more than 100400 citations, and the full lists of his publications are available at [Google scholar](https://scholar.google.co.uk/citations?user=fA6aTlAAAAAJ) and at [Web of Science](https://www.webofscience.com/wos/author/record/I-5662-2019). He has been on the prestigious list of most influential researchers or [highly-cited researchers](https://www.webofscience.com/wos/author/record/I-5662-2019)  (i.e., top 0.1% Scientists, Web of Science) for ten consecutive years since 2016. 
 
 ##### Show email address
 <details>
